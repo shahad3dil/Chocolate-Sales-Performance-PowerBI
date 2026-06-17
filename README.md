@@ -5,7 +5,7 @@ An interactive and corporate-ready Power BI dashboard designed to transform comp
 ## 📊 Dashboard Preview
 *(This preview demonstrates the executive layout and cohesive visual design tailored for stakeholders.)*
 
-<img src="Chocolate Sales Performance.png" width="100%" alt="Dashboard Preview">
+<img src="Chocolate Sales Performance.jpg width="100%" alt="Dashboard Preview">
 
 ## 🚀 Key Business Insights
 * The Growth Engine (+54.3% YoY): Total sales achieved an impressive $19.79M, heavily sustained by optimized individual sales performances and strong regional traction—proving that micro-level efficiency is driving macro success.
